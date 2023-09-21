@@ -48,7 +48,7 @@ ul {
 }
 
 .header-address {
-font-style: normal
+  font-style: normal;
 }
 .header-contacts {
 }
@@ -75,6 +75,7 @@ font-style: normal
 }
 
 .main {
+  background-color: #2e2f42;
 }
 .main-page {
   color: #fff;
@@ -98,8 +99,7 @@ font-style: normal
 
 .main-button:hover,
 .main-button:focus {
-  color: #404bbf
-  background-color: #404BBF;
+  background-color: #404bbf;
 }
 .content-info {
 }
@@ -121,7 +121,7 @@ font-style: normal
 }
 
 .main-team {
-  background: #f4f4fd;
+  background-color: #ffffff;
 }
 .our-portfolio {
   color: #2e2f42;
@@ -189,6 +189,7 @@ font-style: normal
   letter-spacing: 0.02em;
 }
 .footer {
+  background-color: #2e2f42;
 }
 
 .footer-logo {
